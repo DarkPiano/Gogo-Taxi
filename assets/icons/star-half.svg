@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>star-half</title>
+    <desc>Created with Sketch.</desc>
+    <g id="star-half" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(50.000000, 50.000000) scale(-1, 1) translate(-50.000000, -50.000000) translate(0.000000, 2.000000)" fill-rule="nonzero">
+            <g id="star-(1)" fill="#DEDEDE">
+                <polygon id="Path" points="49.7243077 0.587076923 65.088 31.7206154 99.4467692 36.7144615 74.5846154 60.9470769 80.4535385 95.1673846 49.7243077 79.0116923 18.9932308 95.1673846 24.8621538 60.9470769 0 36.7144615 34.3587692 31.7206154"></polygon>
+            </g>
+            <path d="M49.7325884,0.603857291 L65.088,31.7206154 L99.4467692,36.7144615 L74.5846154,60.9470769 L80.4535385,95.1673846 L49.7325884,79.0160458 L49.7325884,0.603857291 Z" id="Combined-Shape" fill="#EFCE4A"></path>
+        </g>
+    </g>
+</svg>
